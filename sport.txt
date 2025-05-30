@@ -1,5 +1,3 @@
-cricket
-football
-basketball
-hockey
-baseball
+kohli 
+dhoni
+neymar
